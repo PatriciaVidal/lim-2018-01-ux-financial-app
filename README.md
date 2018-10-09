@@ -79,4 +79,7 @@ Accede a revisar nuestra carpeta con el proyecto y el proceso detallado en [Driv
 Para desarrolladores en [Zeplin](https://app.zeplin.io/project/5b8e8d0840155c1a718dacd6/dashboard).<br>
 Y este es el link del video en [Loom](https://www.useloom.com/share/a459c8a0e4534a858ed27743e4dfc538).
 
+### Planificación y actividades
+CLick [aquí](https://docs.google.com/presentation/d/1fqk1VvViLI9nL9E5xAZolZyKpNHqD2yKEQhL_xhzt8g/edit#slide=id.g43e9df57e6_0_0).
+
 ### ¡Gracias!
